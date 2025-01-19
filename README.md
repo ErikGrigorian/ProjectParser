@@ -24,7 +24,7 @@
 
 *** 
 pip install beautifulsoup4
-  pip install requests
+pip install requests
 ***
 - После ввода этих команд нажмите **Enter**.
 
